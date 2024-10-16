@@ -1,1 +1,1 @@
-# Ticket-sale-Forcast
+# Ticket-sale-Forcast - This project aims to analyze and predict ticket sales for events like Coldplay concerts using simulated data. It leverages machine learning techniques, specifically a Random Forest Regressor, to forecast sales based on various features.
